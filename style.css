@@ -1,0 +1,44 @@
+#main{
+    width: 600px;
+    min-height: 450px;
+    background-color: gray;
+    float: left;
+}
+.header{
+    width: 100%;
+    min-height: 100px;
+    background-color: #9BCE0B;
+    float: left;
+
+}
+.center{
+    width: 100%;
+    min-height: 250px;
+    background-color: blue;
+    float: left;
+}
+.nav{
+    width:100px;
+    min-height: 250px;
+    background-color: #F7F5D8;
+    float: left;
+}
+.article{
+    width: 400px;
+    min-height:250px;
+    background-color: #F4F5F2;
+    float: left;
+}
+.aside{
+    width: 100px;
+    min-height: 250px;
+    background-color:#F7F5D8 ;
+    float: left;
+}
+.footer{
+    width: 100%;
+    min-height: 100px;
+    background-color: #9BCE0B;
+    float: left;
+}
+   
